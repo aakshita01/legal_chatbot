@@ -45,7 +45,7 @@ RAG-LEGAL-CHATBOT/
 
 ## 🖥️ Chatbot Preview
 
-<img src="./assets/chatbot_ui.png" width="959" alt="Chatbot Preview" />
+<img src="assets/chatbot_ui.png" width="959" alt="Chatbot Preview" />
 
 ---
 
