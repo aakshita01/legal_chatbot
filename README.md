@@ -43,6 +43,12 @@ RAG-LEGAL-CHATBOT/
 
 ---
 
+## 🖥️ Chatbot Preview
+
+![Chatbot UI](assets/chatbot_ui.png)
+
+---
+
 ## 🛠️ Getting Started
 
 ### 🧪 Backend (FastAPI + Mistral)
