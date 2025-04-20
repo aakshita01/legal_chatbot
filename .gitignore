@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# FastAPI specific logs or runtime
+*.log
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Mac and VSCode
+.DS_Store
+.vscode/
+
+# Model files
+*.gguf
+models/
+
+# Data and cache folders
+extracted_text/
+embeddings/
+
+# Node modules (frontend)
+frontend/node_modules/
+
+# Build output (frontend)
+frontend/dist/
+
+# Environment variables
+.env

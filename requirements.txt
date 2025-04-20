@@ -1,7 +1,0 @@
-faiss-cpu==1.10.0
-fastapi==0.115.12
-langcodes==3.5.0
-llama_cpp_python==0.3.8
-python-multipart==0.0.20
-sentence-transformers==4.1.0
-uvicorn==0.34.1
